@@ -2,7 +2,7 @@
 
 Objectives
 
-The goal of this project to enable you to gain experience in:
+The goal of this project to gain experience in:
 
 • Installing and using analytics tools such as HDFS and Apache Spark
 
